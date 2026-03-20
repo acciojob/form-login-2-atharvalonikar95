@@ -12,5 +12,5 @@ if (!firstName || !lastName || !PhoneNumber || !EmailId) {
   alert("Please fill all fields");
   return; 
 }
-alert(`First Name: ${firstName} Last Name: ${lastName} Phone Number: ${PhoneNumber} Email Id: ${EmailId}`);
+alert(`First Name: ${firstName} Last Name: ${lastName} Phone Number: ${PhoneNumber} Email ID: ${EmailId}`);
 });
